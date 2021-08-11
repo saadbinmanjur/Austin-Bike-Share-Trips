@@ -1,5 +1,7 @@
 # Austin-Bike-Share-Trips
-Bike shares are becoming a popular alternative means of transportation. This data includes information on bike trip start location, stop location, duration, type of bike share user. Bike station location data is also provided.
+Bike shares are becoming a popular alternative means of transportation. The City of Austin makes data available on >649k bike trips over 2013-2017. This data includes information on bike trip start location, stop location, duration, type of bike share user. Bike station location data is also provided. 
+
+You can find this dataset [here](https://www.kaggle.com/jboysen/austin-bike)
 
 
 Objectives:
@@ -34,9 +36,12 @@ Objectives:
 
 - Make the date predictions for the following 10 trips.
 
+![alt text](https://github.com/saadbinmanjur/Austin-Bike-Share-Trips/blob/main/Output/Output6.jpg?raw=true)
+
 - Verify model MAE using Cross-Validation, Pipeline and XGBoost Regression.
 
-
-
-
-
+Method  | MAE
+------------- | -------------
+Cross-Validation  | 0.0043
+Pipeline   | 7.1371
+XGBoost    | 0.0079
