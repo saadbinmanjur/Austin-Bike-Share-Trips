@@ -22,10 +22,14 @@ Objectives:
 
 ![alt text](https://github.com/saadbinmanjur/Austin-Bike-Share-Trips/blob/main/Output/Output4.png?raw=true)
 
+***We can see our objective the busiest time period (days of the month, time intervals) when bikers shared more bikes.***
+
 
 - Represent a technique that describes the area where most pickups occurred throughout the time.
 
 ![alt text](https://github.com/saadbinmanjur/Austin-Bike-Share-Trips/blob/main/Output/Output5.png?raw=true)
+
+***I used Geospatial mapping technique that describes the area where most pickups occurred throughout the time.***
 
 
 - Make the date predictions for the following 10 trips.
