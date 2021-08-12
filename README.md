@@ -46,6 +46,3 @@ Cross-Validation  | 0.0043
 Pipeline   | 7.1371
 XGBoost    | 0.0079
 
-
-[text goes here](#section_name)
-              section_title<a name="section_name"></a>    
