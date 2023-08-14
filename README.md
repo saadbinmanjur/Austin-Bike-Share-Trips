@@ -38,7 +38,7 @@ Objectives:
 
 ![alt text](https://github.com/saadbinmanjur/Austin-Bike-Share-Trips/blob/main/Output/Output6.jpg?raw=true)
 
-- Verify model MAE using Cross-Validation, Pipeline and XGBoost Regression.
+- Lastly, verify the model MAE using Cross-Validation, Pipeline and XGBoost Regression.
 
 Method  | MAE
 ------------- | -------------
